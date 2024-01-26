@@ -8,7 +8,7 @@ Introduce the project and give a description.
 
 Include a link to the website if one is available.
 
-![alt text](https://github.com/hufanyoung/PBFE/blob/main/PBFE.png)
+![alt text](./figures/PBFE.png)
 
 ### Results
 
