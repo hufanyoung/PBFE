@@ -70,4 +70,4 @@ In addition to the contributors listed above, we would like to recognize the exc
 
 ## Funding
 
-Include the source of project funding here.
+* USDA-NIFA AI Institute for Next Generation Food Systems (AIFS), USDA-NIFA award number 2020-67021-32855.
