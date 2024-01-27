@@ -42,7 +42,7 @@ You can view the list of authors in the [AUTHORS](https://github.com/AI-Institut
 
 ## Contact
 
-For any questions, please contact us at [add email here].
+For any questions, please contact us at mosalam@berkeley.edu.
 
 ## Citation
 
