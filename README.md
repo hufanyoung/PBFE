@@ -38,7 +38,12 @@ Train the model.
 
 ## Authors
 
-You can view the list of authors in the [AUTHORS](https://github.com/AI-Institute-Food-Systems/aifs-github-best-practices/blob/main/AUTHORS) file.
+* Khalid M. Mosalam<sup>1,2,3</sup>
+* Fan Hu<sup>1,3</sup>
+
+1. Department of Civil and Environmental Engineering, University of California at Berkeley
+2. Pacific Earthquake Engineering Research (PEER) Center, University of California at Davis
+3. USDA/NSF AI Institute for Next Generation Food Systems (AIFS)
 
 ## Contact
 
