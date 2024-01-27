@@ -6,7 +6,7 @@
 
 Introduce the project and give a description.
 
-([Performance Based Engineering for Resilient Food Industry](https://food-manufacturing.berkeley.edu/performance-based-eng-for-resilient-food-ind/))
+PBFE stands for [Performance Based Engineering for Resilient Food Industry](https://food-manufacturing.berkeley.edu/performance-based-eng-for-resilient-food-ind/).
 
 ![alt text](./figures/PBFE.png)
 
