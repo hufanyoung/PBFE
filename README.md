@@ -1,4 +1,4 @@
-# PBFE ([Performance Based Engineering for Resilient Food Industry](https://food-manufacturing.berkeley.edu/performance-based-eng-for-resilient-food-ind/))
+# PBFE 
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 Introduce the project and give a description.
 
-Include a link to the website if one is available.
+([Performance Based Engineering for Resilient Food Industry](https://food-manufacturing.berkeley.edu/performance-based-eng-for-resilient-food-ind/))
 
 ![alt text](./figures/PBFE.png)
 
