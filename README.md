@@ -12,6 +12,8 @@ PBFE stands for [Performance Based Engineering for Resilient Food Industry](http
 
 ### Results
 
+We used *drought* as the environmental hazard in phase 1. 
+
 We developed the *Python* script for implementing the PBFE methodology by choosing the variables in the four phases. 
 
 *Figure 2. Branch graph for the formulation process visualization.*
