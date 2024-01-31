@@ -63,17 +63,7 @@ This project is licensed under the [Name of license]. Please see the [LICENSE](h
 
 ## Acknowledgements
 
-We would like to extend our heartfelt thanks to the following individuals who have contributed to this project.
-
-- [Full Name](https://github.com/username)
-- [Full Name](https://github.com/username)
-- ...
-
-In addition to the contributors listed above, we would like to recognize the exceptional contributions of the following individuals:
-
-- [Full Name](https://github.com/username) - For significant contributions or leadership.
-- [Full Name](https://github.com/username) - For valuable contributions and ongoing support.
-- ...
+Acknowledgements will be updated later.
 
 ## Funding
 
