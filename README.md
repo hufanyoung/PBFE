@@ -12,7 +12,11 @@ PBFE stands for [Performance Based Engineering for Resilient Food Industry](http
 
 ### Results
 
-We developed the *Python* code for implementing the PBFE methodology by choosing the variables in each phase as shown in Figure 2. 
+We developed the *Python* script for implementing the PBFE methodology by choosing the variables in the four phases. 
+
+*Figure 2. Branch graph for the formulation process visualization.*
+
+![Figure 2](./figures/branch_hl.png)
 
 ## Usage
 
