@@ -49,7 +49,28 @@ We selected *drought* as the environmental hazard variable in phase 1. For envir
 
 ### Setup
 
-Mention the environment the code was run on during development and testing as well as any dependencies that are needed.
+<!--- Mention the environment the code was run on during development and testing as well as any dependencies that are needed. --->
+This code has been tested with `Python 3.8`.
+
+To prevent dependency problems, please use either `virtualenv`
+```
+# Activate Python virtualenv
+virtualenv env_name
+source ./env_name/bin/activate # Linux or Mac
+
+# Dectivate Python virtualenv
+deactivate
+```
+or `conda`.
+```
+# Activate Conda environment
+conda create -n env_name python=3.8
+
+# Deactivate Conda environment
+conda deactivate
+```
+
+These platforms are convenient since they have the mostly used Python libraries pre-installed. If any error is incurred, please install the required python packages in your environment according to the error message. 
 
 ### Running
 
