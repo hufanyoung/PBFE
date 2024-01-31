@@ -8,7 +8,11 @@ PBFE stands for [Performance Based Engineering for Resilient Food Industry](http
 
 *Figure 1. Overview of the PBFE framework.*
 
-![Figure 1](./figures/PBFE.png)
+<!--- Everything Here Will Be Commented OUT --->
+<!--- ![Figure 1](./figures/PBFE.png) --->
+<p align="center">
+  <img src="https://github.com/hufanyoung/PBFE/blob/main/figures/PBFE.png" width="80%">
+</p>
 
 ### Results
 
@@ -18,15 +22,19 @@ PBFE consists of four phases (environmental hazard analysis, crop growth analysi
 
 *Figure 2. PBFE formulation process visualization.*
 
-![Figure 2](./figures/pbfe_formulation.png)
+<!--- ![Figure 2](./figures/pbfe_formulation.png) --->
+<p align="center">
+  <img src="https://github.com/hufanyoung/PBFE/blob/main/figures/pbfe_formulation.png" width="60%">
+</p>
 
-We selected *drought* as the environmental hazard in phase 1. 
-
-We developed the *Python* script for implementing the PBFE methodology by choosing the variables in the four phases. 
+We selected *drought* as the environmental hazard variable in phase 1. 
 
 *Figure 3. Branch graph for the formulation process visualization.*
 
-![Figure 3](./figures/branch_hl.png)
+<!--- ![Figure 3](./figures/branch_hl.png) --->
+<p align="center">
+  <img src="https://github.com/hufanyoung/PBFE/blob/main/figures/branch_hl.png" width="60%">
+</p>
 
 ## Usage
 
