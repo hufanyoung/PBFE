@@ -12,13 +12,21 @@ PBFE stands for [Performance Based Engineering for Resilient Food Industry](http
 
 ### Results
 
+PBFE consists of four phases (environmental hazard analysis, crop growth analysis, crop yield analysis and loss analysis) and uses the total probability theorem to compute the loss curve which represents the Probability of Exceedance (POE) of different values of a Decision Variable (DV). We developed the *Python* script for implementing the PBFE methodology, where the selections of the variables in each phase are shown in Figure 2.
+
+<!--- $$P(DV_n) = \sum\limits_m \sum\limits_i \sum\limits_k P(DV_n | YP_k) p(YP_k | SM_i) p(SM_i | IM_m) p(IM_m)$$ --->
+
+*Figure 2. PBFE formulation process visualization.*
+
+![Figure 2](./figures/pbfe_formulation.png)
+
 We selected *drought* as the environmental hazard in phase 1. 
 
 We developed the *Python* script for implementing the PBFE methodology by choosing the variables in the four phases. 
 
-*Figure 2. Branch graph for the formulation process visualization.*
+*Figure 3. Branch graph for the formulation process visualization.*
 
-![Figure 2](./figures/branch_hl.png)
+![Figure 3](./figures/branch_hl.png)
 
 ## Usage
 
