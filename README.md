@@ -74,19 +74,21 @@ These platforms are convenient since they have the mostly used Python libraries 
 
 ### Running
 
-Explain in detailed steps how to run the code in order to reproduce the results shown above in the results section.
+The code for PBFE execution is straightforward and ready to use with the proper configuration of the parameters in four different phases. 
+
+In order to reproduce the results in the drought prediction work, please follow the detailed steps below to run the code.
 
 #### Step 1.
 
-Download all the input data.
+Download all the input weather data following the instructions in the script.
 
 #### Step 2.
 
-Generate the values for training the model.
+Preprocessing the weather data for training the model, split the data into train, test, and validation sets. 
 
 #### Step 3.
 
-Train the model.
+Train the decision tree/random forest model. 
 
 ## Authors
 
