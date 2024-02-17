@@ -1,5 +1,20 @@
 # PBFE 
 
+## Table of contents
+
+- [Overview](#overview)
+  - [Introduction](#introduction)
+  - [Results](#results)
+- [Usage](#usage)
+  - [Setup](#setup)
+  - [Running](#running)
+- [Authors](#authors)
+- [Contact](#contact)
+- [Citation](#citation)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Funding](#funding)
+
 ## Overview
 
 ### Introduction
